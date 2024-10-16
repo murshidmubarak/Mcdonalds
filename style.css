@@ -1,0 +1,211 @@
+
+.img1{
+    margin-top: 10px;
+}
+
+.language{
+    margin-top: -100px;
+    margin-left: 200px;
+    font-weight: lighter; 
+}
+.language1{
+    margin-top: -100px;
+    margin-left: 300px;
+   font-weight: lighter;
+}
+.language-div{
+    float: left;
+   
+}
+.language2{
+    margin-top: -100px;
+    margin-left: 450px;
+   font-weight: lighter;
+}
+.search{
+    margin-top: -100px ;
+    margin-left: 700px;
+    
+    
+}
+.location{
+    margin-top: -20px ;
+    margin-left: 800px;
+    overflow: auto;
+    
+}
+.left{
+    float: left;
+    margin-top: 0px;
+    padding-left: 5px;
+
+}
+.ordernow{
+    background-color: #ffa600;
+    border: none;
+  
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 0;
+    margin-left: 30px;
+    padding: 10px 30px;
+    text-align: center;
+    
+}
+.top-second{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.top-part{
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+}
+.content{
+    margin-top: 40px;
+    height: 1000px;
+    
+    width: 100%;
+}
+.picture1{
+    display: flex;
+    align-items: flex-start; 
+    
+}
+.picture1a{
+    width: 700px;
+    height: 300px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text-container{
+    display: flex;
+    margin-top: 25px;
+    flex-direction: column;
+    
+}
+.p2{
+    font-size: 10px;
+}
+.picture-button{
+    background-color: #ffa600;
+    border: none;
+    width: 250px;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 0;
+    padding-left: 25px;
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.picture-button4{
+    background-color: #ffa600;
+    border: none;
+    width: 300px;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 0;
+    padding-left: 25px;
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.picture-button5{
+    background-color: #ffa600;
+    border: none;
+    width: 180px;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 0;
+    padding-left: 25px;
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.picture-button6{
+    background-color: #ffa600;
+    border: none;
+    width: 230px;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 0;
+    padding-left: 25px;
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.written1{
+    margin-top: 100px;
+    padding-left: 50px;
+    flex-direction: column;
+    float: left;
+}
+.written2{
+    margin-top: 100px;
+    padding-left: 130px;
+    flex-direction: column;
+    float: left;
+}
+.logos{
+    padding-top: 2450px;
+}
+.logo1{
+    float: right;
+    margin-right:50px;
+}
+.logo2{
+    float: right;
+    margin-right:10px;
+}
+.logo3{
+    margin-left: 40px;
+}
+.logo4{
+    padding-left: 20px;
+}
+.hr{
+    margin-top: 50px;
+}
+.hr-line{
+    border: none;
+    border-top: 0.5px solid rgba(0, 0, 0, 0.274);
+    width: 90%;
+
+}
+.words{
+    padding-top: 40px;
+}
+.word1{
+    margin-left: 60px;
+    float: left;
+}
+.word2{
+    padding-left: 45px;
+    float: left;
+}
+.last-img{
+    width: 30px;
+    height: 40px;
+    padding-left: 80px;
+    float: left;
+}
+.word3{
+  padding-left: 40px;
+}
+.words2{
+    padding-top: 5px;
+}
+.final{
+    margin-left: 60px;
+    float: left;
+}
+.final2{
+    padding-left: 45px;
+    float: left;
+}
